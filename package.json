@@ -1,7 +1,7 @@
 {
-  "name": "easy-peasy-bot",
+  "name": "slack-status-bot",
   "version": "1.0.0",
-  "description": "The awesomest bot evar.",
+  "description": "Slack status bot.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,18 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DEGoodmanWilson/easy-peasy-bot-app.git"
+    "url": "git+https://github.com/achrysandreas/slack-status-bot"
   },
   "keywords": [
     "slack",
+    "status",
     "bot"
   ],
-  "author": "D.E. Goodman-Wilson",
+  "author": "A Chrysandreas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app/issues"
+    "url": "https://github.com/achrysandreas/slack-status-bot/issues"
   },
-  "homepage": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app#readme",
+  "homepage": "https://github.com/achrysandreas/slack-status-bot#readme",
   "engines": {
     "node": "5.1.1"
   },
